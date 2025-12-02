@@ -39,8 +39,10 @@
 
 ## Output
 ### MechAnalyzer Graph 
+
 ![MechAnalyzer](MechAnalyzer.png)
 ### VAD, IC and SFA module
+
 ![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
 ### Name: **KARTHIKEYAN S**
 ### Register Number: **212224230116**
